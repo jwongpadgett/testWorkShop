@@ -6,4 +6,7 @@
 	get data
 	publish papers
 	
+	Get Patent 
+	Sell Patent
+	Cure Everything
 	
